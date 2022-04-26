@@ -1,2 +1,2 @@
 # unrar-go
-Leitorura e extração de arquivos .rar
+Leitura e extração de arquivos .rar
